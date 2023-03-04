@@ -1,4 +1,4 @@
-<h1>COVID-19 ANALYSIS - 04/02/2020 to 07/02/2023</h1>
+<h1>COVID-19 ANALYSIS - 24/02/2020 to 27/02/2023</h1>
 
 <h2>Introduction</h2>
 This is an analysis of the Covid-19 dataset from https://ourworldindata.org/covid-deaths. The dataset contains details about the Cases, Deaths, and Vaccinations. To keep it simple, I decided to break the dataset using Excel into two dataset naming them CovidDeaths and CovidVaccinations respectively. The CovidDeaths dataset consists of data related to cases and deaths whereas the CovidVaccinations dataset consists of data related to vaccinations.
