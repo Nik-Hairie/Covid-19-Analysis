@@ -10,7 +10,7 @@ This is an analysis of the Covid-19 dataset from https://ourworldindata.org/covi
 - <b>Microsoft SQL Server</b>
 - <b>Power BI</b>
 
-<h2>Analysis Walk-through:</h2>
+<h2>Analysis Result</h2>
 
 <p align="center">
 Total Deaths against Total Casess: <br/>
